@@ -1,0 +1,2 @@
+# check-merge-block
+GHA
